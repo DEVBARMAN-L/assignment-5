@@ -4,7 +4,7 @@ const masseges ={
     "call-btn-3": "Calling FireSurvice 999...",
     "call-btn-4": "Calling Ambulance Emergency Survice 1994-999999...",
     "call-btn-5": "Calling Women and Child Helpline Emergency Survice 109...",
-    "call-btn-6": "emargencey",
+    "call-btn-6": "Anti-Corruption Helpline",
     "call-btn-7": "emargency",
     "call-btn-8": "Brac NGO Loan Survices 16445...",
    "call-btn-9": "Railway Emergency Teket Survice 163..."
